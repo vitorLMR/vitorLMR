@@ -20,7 +20,7 @@
 ### :man_technologist: About Me :
 -  :telescope: Hello everyone, my name is Vitor, I'm 21 years old 
 -  :zap: I'm a fullstack web developer from Brazil
--  	:earth_americas:  I am currently working as a software developer at Innspire
+-  	:earth_americas:  I am currently working as a software developer at Solfacil
 - :space_invader: In my free time I like to read books, play online games and improve my knowledge 
 - :penguin: The penguin is a little joke with my nickname
 
