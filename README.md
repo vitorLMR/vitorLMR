@@ -28,6 +28,8 @@
   <img  src="https://media.giphy.com/media/qLpLfeNVv0RCZpXw53/giphy.gif" width="400px" height="400px" />
  </div>
 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorLMR)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorLMR/vitorLMR/output/pacman-contribution-graph-dark.svg">
