@@ -18,15 +18,10 @@
 <p align="center">Style made to match with the GitHub dark mode, I like more this theme 🌙</p>
 
 ### :man_technologist: About Me :
--  :telescope: Hello everyone, my name is Vitor, I'm 21 years old 
+-  :telescope: Hello everyone, my name is Vitor, I'm 22 years old 
 -  :zap: I'm a fullstack web developer from Brazil
 -  	:earth_americas:  I am currently working as a software developer at Solfacil
 - :space_invader: In my free time I like to read books, play online games and improve my knowledge 
-- :penguin: The penguin is a little joke with my nickname
-
-<div align="center">
-  <img  src="https://media.giphy.com/media/qLpLfeNVv0RCZpXw53/giphy.gif" width="400px" height="400px" />
- </div>
 
 
 <picture>
